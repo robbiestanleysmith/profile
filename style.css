@@ -8,16 +8,6 @@ body {
   align-items: center;
 }
 
-@font-face {
-  font-family: 'Valorax';
-  src: url('/fonts/Valorax-lg25V.otf') format('opentype');
-}
-
-@font-face {
-  font-family: 'Eternal';
-  src: url('/fonts/Eternal-8Md1g.otf') format('opentype');
-}
-
 h1 {
   color: #5800FF;
   font-family: "Valorax";
